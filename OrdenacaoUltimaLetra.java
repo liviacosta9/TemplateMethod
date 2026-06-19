@@ -1,4 +1,3 @@
-// SortByLastLetter.java
 public class OrdenacaoUltimaLetra extends AbstractSorter{
 
     @Override
